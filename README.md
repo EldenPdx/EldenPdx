@@ -37,15 +37,6 @@ Open to collaborating on open-source projects around AI tooling, developer exper
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=EldenPdx&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EldenPdx&layout=compact&theme=github_dark&hide_border=true" />
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EldenPdx)
