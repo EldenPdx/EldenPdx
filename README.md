@@ -1,45 +1,54 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+AI+Enthusiast;Building+with+Agents+%26+RAG;Learning+in+public+%F0%9F%9A%80" alt="Typing SVG" />
-</div>
+# Hi, I'm [EldenPdx] 👋
+
+🧠 **Backend Engineer → AI Engineer** | 🚀 **Building in public**
+
+Now diving deep into **AI Agents, RAG, LangChain, and multi-agent systems** — bringing backend engineering discipline to the LLM wild west.
+
+> Deep in learning mode — exploring how to make AI systems reliable, composable, and production-ready. After years of building backend systems from zero to scale, the agentic world feels like the next frontier.
 
 ---
 
-### 👋 About Me
+## Current Projects
 
-Backend Engineer with a strong foundation in building scalable systems. Currently channeling that energy into **AI engineering** — Agents, RAG, LangChain, multi-agent systems, and making LLMs do useful things in the real world.
+### AI & Agent
 
-I care about clean abstractions, thoughtful system design, and shipping code that doesn't crumble under pressure.
-
-Open to collaborating on open-source projects around AI tooling, developer experience, or backend infrastructure. If you're building something interesting, I'd love to help.
-
----
-
-### 🧰 Tech Stack
-
-**Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-
-**AI & LLM**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge&logo=databricks&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logo=deepseek&logoColor=white)
-
-**DevOps & Tools**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+- 🧠 **[Agent-Lite](https://github.com/EldenPdx/agent-lite)** — [Explore Multi-Agent]
+- 🔗 **[AI-Monitor](https://github.com/EldenPdx/AI-Monitor)** — [Monitor hotspot information]
 
 ---
 
-### 🤝 Let's Connect
+## GitHub Activity
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/EldenPdx)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eldenpdx@163.com)
+![GitHub Contribution Graph](https://ghchart.rshah.org/EldenPdx)
 
-> *"The best way to learn is to build in public."*
+---
+
+## What I'm Doing
+
+- **Learning in public** — Documenting my journey into AI agents, RAG, and multi-agent orchestration
+- **Building AI-native tools** — Turning "what if" into "here, try this"
+- **Looking to contribute** — Open to collaborating on AI tooling, dev tools, and backend infrastructure
+
+---
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/EldenPdx)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:[eldenpdx@163.com])
+
+---
+
+### Philosophy
+
+> "Ship to learn, learn to ship." — Building in the open, sharing what I discover, and contributing where I can.
+
+<details>
+<summary>More about me</summary>
+
+- Backend engineer with years of systems-building experience, now channeling it into AI
+- Top 2% in software engineering cohort
+- National-level competitive programming award
+- Fluent in English technical documentation
+- Currently obsessed with: Agents, RAG, LangChain, multi-agent systems
+
+</details>
