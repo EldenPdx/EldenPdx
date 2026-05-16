@@ -1,4 +1,4 @@
-# Hi, I'm [EldenPdx] 👋
+# Hi, I'm EldenPdx 👋
 
 🧠 **Backend Engineer → AI Engineer** | 🚀 **Building in public**
 
